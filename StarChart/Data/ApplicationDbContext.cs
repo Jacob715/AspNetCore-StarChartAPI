@@ -2,7 +2,7 @@
 
 namespace StarChart.Data
 {
-    public class ApplicationDbContext : DbContext
+    public classApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
